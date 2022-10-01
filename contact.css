@@ -1,0 +1,12 @@
+body{
+  background:linear-gradient(rgb(246, 255, 0),rgb(255, 136, 0)) ;
+  background-attachment: fixed;
+}
+
+h1{
+  color: darkslategrey;
+}
+
+h2{
+  color: brown;
+}
